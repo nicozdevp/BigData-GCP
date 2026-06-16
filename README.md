@@ -1,4 +1,4 @@
-# Yellow Taxi NYC — Christmas Season Demands
+# Yellow Taxi NYC - Christmas Season Demands
 
 Análisis de datos masivos de movilidad urbana en Nueva York durante la temporada navideña de diciembre (2023-2025), usando una arquitectura Lambda sobre Google Cloud Platform para identificar zonas de alto poder adquisitivo y hotspots de demanda.
 
