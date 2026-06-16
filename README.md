@@ -5,7 +5,7 @@ Análisis de datos masivos de movilidad urbana en Nueva York durante la temporad
 **Asignatura:** Big Data — BIY7131  
 **Institución:** DuocUC  
 **Profesor:** Igor Venegas  
-**Entrega:** 24/05/2026
+
 
 | Alumno | Correo |
 |---|---|
